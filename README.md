@@ -8,7 +8,7 @@ And for manual testing or scouting you can run from either firefox or chrome.
 ## Manual Testing
 
 * Run Sauce-Connect for local hosted sites.
-  * java -jar Sauce-Connect.jar [username] [api-key](https://saucelabs.com/account#)
+  * `java -jar Sauce-Connect.jar [username] [api-key](https://saucelabs.com/account#)`
 * Please wait for "You may start your tests" to start your tests.
 * Go to [Scout](https://saucelabs.com/scout) and enter the URL and select the browser.
 * The browser should be opened, do the testing now.
@@ -23,7 +23,7 @@ And for manual testing or scouting you can run from either firefox or chrome.
 
 * This can be done through only firefox.
 * Run Sauce-Connect for local hosted sites.
-  * java -jar Sauce-Connect.jar [username] [api-key](https://saucelabs.com/account#)
+  * `java -jar Sauce-Connect.jar [username] [api-key](https://saucelabs.com/account#)`
 * Please wait for "You may start your tests" to start your tests.
 * Launch firefox and click Tools -> Launch Sauce Builder.
 * Enter the URL in the text box, and click 'Go!'
