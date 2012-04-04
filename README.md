@@ -25,3 +25,14 @@ And for manual testing or scouting you can run from both firefox or chrome.
 * Run Sauce-Connect for local hosted sites.
   * java -jar Sauce-Connect.jar [username] [api-key](https://saucelabs.com/account#)
 * Please wait for "You may start your tests" to start your tests.
+* Launch firefox and click Tools -> Launch Sauce Builder.
+* Enter the URL in the text box, and click 'Go!'
+* Then a new page with the url is loaded and it starts to record all your action on the page.
+* Next, click stop recording.
+* Click 'Run' -> 'Run on Sauce onDemand' and select the required browser and click 'Run'. 
+* This will also 'Record a video' on the server.
+* You can also add custom actions by clicking 'add new step above/below' when you hover mouse on the actions.
+* TODO 
+
+
+
