@@ -2,7 +2,7 @@
 
 Download all the required software from [here](https://saucelabs.com/downloads).
 Right now, the automated testing is only supported in Firefox.
-And for manual testing or scouting you can run from both firefox or chrome.
+And for manual testing or scouting you can run from either firefox or chrome.
 
 
 ## Manual Testing
