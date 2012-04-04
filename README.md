@@ -13,10 +13,10 @@ And for manual testing or scouting you can run from either firefox or chrome.
 * Go to [Scout](https://saucelabs.com/scout) and enter the URL and select the browser.
 * The browser should be opened, do the testing now.
 * You can take screenshots by clicking 'Snapshot' on top-left of the page.
-* If you find any bugs, 
-  * please add them to the 'Bugs' task list on TeamBox and 
-  * also click 'file bug' on the top menu
+* If you find any bugs,   
+  * click 'file bug' on the top menu and add the bugs  
 * Once you`re done with the testing, click 'Stop' on the top menu.
+* If you added any bugs, add them to the 'Bugs' task list on TeamBox and enter the "bug detail link" 
 
 
 ## Automated Testing
